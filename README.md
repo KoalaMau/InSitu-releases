@@ -1,4 +1,9 @@
-# InSitu
+<h1>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/insitu-wordmark-dark.svg">
+    <img src="images/insitu-wordmark.svg" alt="InSitu" height="56">
+  </picture>
+</h1>
 
 A markdown editor where you write and read in the same place. Markdown renders as you type, and its syntax shows only around the caret. Your files stay plain markdown on your disk.
 
